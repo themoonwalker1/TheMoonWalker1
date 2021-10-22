@@ -18,7 +18,7 @@ used by all students to sign up for clubs and receive updates from admins and te
 
 ### 📫 How to reach me:
 
-- Website: [praneethbhandaru.me](https://director.tjhsst.edu/users/2023pbhandar)
+- Website: [praneethbhandaru.me](https://user.tjhsst.edu/2023pbhandar)
 - Email: [praneethsbhandaru@gmail.com](mailto:praneethsbhandaru@gmail.com)
 - Twitter: [@themoonwalker1](https://twitter.com/themoonwalker1)
 
