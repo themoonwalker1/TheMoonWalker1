@@ -25,3 +25,6 @@ used by all students to sign up for clubs and receive updates from admins and te
 You can also ask me a question on my [Public AMA](https://github.com/TheMoonWalker1/TheMoonWalker1/discussions/new?category=ama)
 
 My PGP Public Key: [`96E4 AA43 F33D 5AA3`](https://keybase.io/themoonwalker_/pgp_keys.asc)
+
+[![Praneeth's github stats](https://github-readme-stats.vercel.app/api?username=TheMoonWalker1&theme=dark&show_icons=true)](https://github.com/TheMoonWalker1)
+[![Praneeth's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheMoonWalker1&theme=dark&show_icons=true)](https://github.com/TheMoonWalker1)
