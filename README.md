@@ -20,7 +20,6 @@ used by all students to sign up for clubs and receive updates from admins and te
 
 - Website: [praneethbhandaru.me](https://user.tjhsst.edu/2023pbhandar)
 - Email: [praneethsbhandaru@gmail.com](mailto:praneethsbhandaru@gmail.com)
-- Twitter: [@themoonwalker1](https://twitter.com/themoonwalker1)
 
 You can also ask me a question on my [Public AMA](https://github.com/TheMoonWalker1/TheMoonWalker1/discussions/new?category=ama)
 
