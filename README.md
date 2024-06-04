@@ -9,13 +9,11 @@ I am passionately engaged in research focused on transformer architectures and t
 - **Advanced Transformer Models**: Delving into cutting-edge techniques in LLMs to explore novel approaches in AI research.
 - **Professional Software Development Practices**: Enhancing my skills in clean code, agile methodologies, and efficient deployment architectures.
 - **Cloud Services for AI**: Utilizing platforms like Google Cloud and Microsoft Azure for scalable AI solutions.
-- 
+
 #### 💬 Let’s Connect:
 - **LinkedIn**: [Praneeth Chinmay Bhandaru](https://www.linkedin.com/in/praneeth-chinmay-bhandaru/)
 - **Email**: [praneeth.s.bhandaru@gmail.com](mailto:praneeth.s.bhandaru@gmail.com)
 
 I'm always looking for collaboration on innovative projects and knowledge exchange within the
 
-- **Resume**: View my [detailed resume](#) for a comprehensive overview of my professional journey and skill set.
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=themoonwalker1)](https://github.com/themoonwalker1)
+**Resume**: View my [detailed resume](https://github.com/themoonwalker1/TheMoonWalker1/blob/master/BHANDARU_RESUME.pdf) for a comprehensive overview of my professional journey and skill set.
