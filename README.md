@@ -14,6 +14,4 @@ I am passionately engaged in research focused on transformer architectures and t
 - **LinkedIn**: [Praneeth Chinmay Bhandaru](https://www.linkedin.com/in/praneeth-chinmay-bhandaru/)
 - **Email**: [praneeth.s.bhandaru@gmail.com](mailto:praneeth.s.bhandaru@gmail.com)
 
-I'm always looking for collaboration on innovative projects and knowledge exchange within the
-
 **Resume**: View my [detailed resume](https://github.com/themoonwalker1/TheMoonWalker1/blob/master/BHANDARU_RESUME.pdf) for a comprehensive overview of my professional journey and skill set.
